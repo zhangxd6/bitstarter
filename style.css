@@ -8,7 +8,7 @@ body{
 }
 
 p.lead{
-  padding-top:15px;  
+  padding-top:15px;
 }
 
 .navigation, .pitch, .section1, .section2, .faq, .footer{
@@ -29,7 +29,7 @@ p.lead{
         height:40px;
     line-height:40px;
  }
- 
+
  div.row{
      border:1px solid;
  }
